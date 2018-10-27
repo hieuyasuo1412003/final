@@ -92,7 +92,7 @@ font-family: 'Gloria Hallelujah', cursive;
 #font2{
     font: larger;
     color: black;
-    font-size: 37px;
+    font-size: 56px;
     font-family: 'Gloria Hallelujah', cursive;
 }
 #div1{
@@ -165,7 +165,7 @@ p {
     letter-spacing: .12em; /* Adjust as needed */
     text-align: center;
     animation: 
-      typing 2.4s steps(40, end),
+      typing 0.3s steps(40, end),
       blink-caret .50s step-end infinite;
     
     
@@ -239,7 +239,7 @@ p {
     letter-spacing: .12em; /* Adjust as needed */
     text-align: center;
     animation: 
-      typing 2.4s steps(40, end),
+      typing 0.3s steps(40, end),
       blink-caret .50s step-end infinite;
     
     
@@ -262,7 +262,7 @@ h4{
    letter-spacing: .12em; /* Adjust as needed */
    text-align: center;
    animation: 
-     typing 2.4s steps(40, end),
+     typing 0.3s steps(40, end),
      blink-caret .50s step-end infinite;
    color: red;
    
